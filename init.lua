@@ -11,8 +11,7 @@ end
 
 vim.opt.rtp:prepend(lazypath)
 
--- personal pref
-vim.cmd("set expandtab")
+-- personal prefvim.cmd("set expandtab")
 vim.cmd("set tabstop=4")
 vim.cmd("set shiftwidth=4")
 vim.cmd("set softtabstop=4")
